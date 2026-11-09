@@ -1,0 +1,5 @@
+# Todos os valores tem default em variables.tf; descomente so o que quiser mudar.
+# aws_region             = "us-east-1"
+# table_prefix           = "execucao"
+# point_in_time_recovery = true
+# deletion_protection    = false
